@@ -1,14 +1,13 @@
 ---
 # For reference on model card metadata, see the spec: https://github.com/huggingface/hub-docs/blob/main/modelcard.md?plain=1
 # Doc / guide: https://huggingface.co/docs/hub/model-cards
-{{ card_data }}
 ---
 
 # Model Card for greedAI 1.0
 
 <!-- Provide a quick summary of what the model is/does. -->
 
-Our AI is a natural language processing model that classifies input messages as either emergency (1) or non-emergency (0). It uses Python libraries like NumPy for data manipulation, Pandas for dataset handling, and Matplotlib for plotting. The text data is transformed into a numerical format using CountVectorizer, and a Gaussian Naive Bayes classifier is employed for the prediction task. The model's performance is evaluated using a confusion matrix and accuracy score. Finally, the trained model can be saved and reused with the help of the pickle module.
+Our AI Hacked (hackathon) project is a natural language processing model that classifies input messages as either emergency (1) or non-emergency (0). It uses Python libraries like NumPy for data manipulation, Pandas for dataset handling, and Matplotlib for plotting. The text data is transformed into a numerical format using CountVectorizer, and a Gaussian Naive Bayes classifier is employed for the prediction task. The model's performance is evaluated using a confusion matrix and accuracy score. Finally, the trained model can be saved and reused with the help of the pickle module.
 
 
 - **Developed by:** <a href="https://github.com/mhafizazh">Muhammad Hafiz Azhari</a>

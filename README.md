@@ -12,9 +12,6 @@ Our AI is a natural language processing model that classifies input messages as 
 
 
 - **Developed by:** <a href="https://github.com/mhafizazh">Muhammad Hafiz Azhari</a>
-- **Model type:** {{ model_type | default("[More Information Needed]", true)}}
-- **Language(s) (NLP):** {{ language | default("[More Information Needed]", true)}}
-- **License:** {{ license | default("[More Information Needed]", true)}}
 
 
 ## Key Uses
